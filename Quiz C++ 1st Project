@@ -8,7 +8,8 @@ void fun3(){
 
 void fun2(){int count=0;
     char n;
-    int arr[5];
+
+int arr[5];
 cout<<endl<<"Total Marks is ::>  3"<<endl<<endl;
 
     for(int i=1; i<=1; i++){
